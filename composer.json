@@ -1,8 +1,8 @@
 {
-    "name": "macsidigital/laravel-api-client",
+    "name": "atouiahmed/laravel-api-client",
     "description": "Laravel API Client Builder package",
     "keywords": [
-        "macsidigital",
+        "atouiahmed",
         "laravel-api-client"
     ],
     "homepage": "https://github.com/atouiahmed/laravel-api-client",
