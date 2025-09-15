@@ -18,8 +18,8 @@
         "guzzlehttp/guzzle": "~7.0",
         "guzzlehttp/oauth-subscriber": "^0.6.0",
         "firebase/php-jwt": "^6.0",
-        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
-        "atouiahmed/laravel-oauth2-client": "dev-master"
+        "atouiahmed/laravel-oauth2-client": "dev-master",
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0|^5.0|^6.0|^7.0|^8.0|^9.0",
